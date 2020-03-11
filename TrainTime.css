@@ -1,4 +1,10 @@
 /* .jumbtron{
-    text-align: center;
+    background-color: limegreen;
 
-} */
+}  */
+
+#train-schedule th,
+td {
+  display: inline-block;
+  width: 20%;
+}
